@@ -331,3 +331,8 @@ button:focus:not(:focus-visible),
   border-width: 3px;
   box-shadow: none;
 }
+.submit {
+  width: 100%;
+  background-color: #009ad8;
+  color: white;
+}
